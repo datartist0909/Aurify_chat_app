@@ -1,4 +1,4 @@
-const socket = new WebSocket('ws://192.168.229.52:8080'); 
+const socket = new WebSocket('ws://192.168.x.x:8080'); 
 
 // Check if the connection is successful
 socket.addEventListener('open', function () {
