@@ -17,7 +17,7 @@ A real-time web-based chat application that dynamically adjusts its user interfa
 To run the project locally:
 
 1. **Clone the Repository**
-   git clone https://github.com/your-username/mood-chat-app.git
+   git clone https://github.com/datartist0909/mood-chat-app.git
    cd mood-chat-app
 
 2. **Install Dependencies**
