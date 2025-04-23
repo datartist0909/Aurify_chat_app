@@ -17,7 +17,7 @@ A real-time web-based chat application that dynamically adjusts its user interfa
 To run the project locally:
 
 1. **Clone the Repository**
-   git clone https://github.com/datartist0909/mood-chat-app.git
+   git clone https://github.com/datartist0909/Aurify_chat_app.git
    cd mood-chat-app
 
 2. **Install Dependencies**
